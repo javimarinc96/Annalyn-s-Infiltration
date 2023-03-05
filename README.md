@@ -1,3 +1,4 @@
+![annalyns-infiltration](https://user-images.githubusercontent.com/44240533/222984637-cf18d876-c593-43d1-80d9-812e6f2a8dc0.svg)
 # Annalyn's Infiltration
 
 Welcome to Annalyn's Infiltration on Exercism's Java Track.
